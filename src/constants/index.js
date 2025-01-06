@@ -283,7 +283,7 @@ import {
         },
       ],
       image: biggfoot,
-      source_code_link: "https://biggfootgames.com/",
+      source_code_link: "https://bigg-foot-games.com/",
     },
   ];
   
