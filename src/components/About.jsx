@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
        I am a Full Stack Software Developer from Vancouver Canada with master's degree in 
-       software engineering and over 4 years of professional experience creating React applications 
+       software engineering and over 6 years of professional experience creating React applications 
        using TypeScript, NodeJS, noSQL backends and Google Cloud Functions. 
         My master’s program had a heavy machine learning component, involving training models, SQL and NoSQL 
         data base creation and organization and of course Python coding.

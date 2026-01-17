@@ -29,7 +29,8 @@ import {
     biggfoot,
     darryl,
     lea,
-    richard
+    richard,
+    pdi
     // threejs,
   } from "../assets";
   
@@ -126,6 +127,18 @@ import {
   ];
   
   const experiences = [
+        {
+      title: "Full Stack Developer",
+      company_name: "PrimeDayalytics Inc. (PDi)",
+      icon: pdi,
+      iconBg: "#383E56",
+      date: "Nov 2024 - current",
+      points: [
+        "Integrated Trade Desk, DV360, and Yahoo APIs; normalized disparate schemas into a unified data model for reliable reporting.",
+        "Designed scalable ingestion and processing services (TypeScript/Node.js, MongoDB) with strong test coverage and clear documentation.",
+        "Implemented automated QA checks to catch edge cases and data anomalies before release, improving reliability of downstream analytics.",
+      ],
+    },
     {
       title: "Full Stack Developer",
       company_name: "ATCO",

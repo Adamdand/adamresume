@@ -28,6 +28,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import sandp from "./company/sandp.png"
+import pdi from "./company/pdi.png"
 import university from "./company/uofc.png"
 import benevity from "./company/benevity.png"
 import atco from "./company/atco.png"
@@ -72,6 +73,7 @@ export {
   atco,
   university,
   sandp,
+  pdi,
   benevity,
   bre,
   biggfoot,

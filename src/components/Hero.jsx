@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           <span className='text-[#915EFF]'>MEng Software Engineering</span> <br className='sm:block hidden' />
-            with over 5 years of  <span className='text-[#915EFF]'>Full Stack</span> development and  <span className='text-[#915EFF]'>Machine Learning.</span>
+            with over 6 years of  <span className='text-[#915EFF]'>Full Stack</span> development and  <span className='text-[#915EFF]'>Machine Learning.</span>
           </p>
         </div>
       </div>
